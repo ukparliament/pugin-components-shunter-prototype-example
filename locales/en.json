@@ -1,0 +1,28 @@
+{
+  "shared": {
+    "meta": {
+      "title": "UK Parliament"
+    },
+    "header": {
+      "skip-to-content": "Skip to main content",
+      "cookie-banner-text": "Parliament.uk uses cookies to make the site simpler. <a href='{{-link}}'>Find out more about cookies</a>",
+      "beta-status": "These pages are being tested. <a href='http://www.smartsurvey.co.uk/s/ukparliament-beta-website-feedback/'>Give feedback</a> to help improve them. Go to <a href='http://www.parliament.uk'>current website</a>",
+      "label": "UK Parliament"
+    },
+    "footer": {
+      "uk-parliament": "UK Parliament"
+    }
+  },
+  "home": {
+    "hero": {
+      "heading": "Welcome to the Shunter + Pugin Components prototype",
+      "paragraph-1": "This application serves as an example implementation and quick-start for creating protoypes on Shunter with Pugin Components.",
+      "paragraph-2": "As well as the above, this projects has been setup with a package.json, Procfile and ProcfileForeman which are used by Heroku."
+    },
+    "lorem-ipsum": {
+      "heading": "Lorem Ipsum",
+      "paragraph-1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum nunc a elit ullamcorper porta. Morbi semper nec nibh eget efficitur. Quisque tincidunt elementum vestibulum. Nullam vitae consectetur tellus, vel ornare tortor. Nam luctus felis nisl, ut iaculis ipsum aliquam sed. In sagittis vestibulum nisi ut hendrerit. Mauris commodo quis sapien et efficitur. Ut feugiat nisl ac tellus blandit fermentum in sit amet dolor. Sed eu leo vel erat semper aliquam vitae ac massa. Nulla at suscipit elit. Maecenas hendrerit imperdiet diam, in fringilla neque laoreet eu. Ut non nisi ipsum. Sed laoreet pharetra suscipit. Donec suscipit laoreet tortor, sed eleifend tortor. Maecenas porttitor neque et venenatis tempor.",
+      "paragraph-2": "Fusce condimentum ipsum nec diam pulvinar auctor non eget nunc. Vivamus finibus molestie nulla, vitae malesuada leo semper sed. Nam consequat dolor ut lectus malesuada, et porttitor nunc vehicula. Quisque ullamcorper arcu ex, in volutpat magna gravida ut. Donec ac ex placerat mauris malesuada fringilla in vitae arcu. Nunc non ornare elit. Vivamus eu sapien molestie, sollicitudin tellus quis, vehicula ex. Fusce ac leo nec arcu bibendum pharetra. Donec posuere, arcu quis malesuada ultricies, risus eros vulputate ipsum, in euismod leo nibh id dui. Mauris gravida lorem tortor, et rhoncus augue sodales in. Mauris sollicitudin fermentum libero vel molestie."
+    }
+  }
+}

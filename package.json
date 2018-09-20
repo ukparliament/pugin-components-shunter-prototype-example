@@ -1,0 +1,27 @@
+{
+  "name": "pugin-components-shunter-prototype-example",
+  "version": "1.0.0",
+  "description": "A simple example prototype running on shunter with pugin-components and Heroku support",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js -s --compile-on-demand",
+    "serve": "./node_modules/.bin/shunter-serve -i -q",
+    "heroku-postbuild": "./node_modules/.bin/shunter-build -r pugin-components"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukparliament/pugin-components-shunter-prototype-example.git"
+  },
+  "author": "Matthew Rayner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ukparliament/pugin-components-shunter-prototype-example/issues"
+  },
+  "homepage": "https://github.com/ukparliament/pugin-components-shunter-prototype-example#readme",
+  "dependencies": {
+    "i18next": "^11.9.0",
+    "pugin-components": "^0.7.1",
+    "shunter": "^4.12.0"
+  }
+}
