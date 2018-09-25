@@ -17,7 +17,7 @@
     "hero": {
       "heading": "Welcome to the Shunter + Pugin Components prototype",
       "paragraph-1": "This application serves as an example implementation and quick-start for creating protoypes on Shunter with Pugin Components.",
-      "paragraph-2": "As well as the above, this projects has been setup with a package.json, Procfile and ProcfileForeman which are used by Heroku."
+      "paragraph-2": "As well as the above, this project has been setup with a package.json, Procfile and ProcfileForeman which are used by Heroku."
     },
     "lorem-ipsum": {
       "heading": "Lorem Ipsum",
